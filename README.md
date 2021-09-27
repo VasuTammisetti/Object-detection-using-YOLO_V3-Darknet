@@ -10,3 +10,4 @@ Samples Results
 
 ![val_batch1_labels](https://user-images.githubusercontent.com/59999074/134931974-7ccbbd8f-a7ff-41cd-af0f-7babb02f9dc3.jpg)
 
+![val_batch1_pred](https://user-images.githubusercontent.com/59999074/134933241-37da2ee7-b156-48ac-89b7-55eb29d3e14c.jpg)
